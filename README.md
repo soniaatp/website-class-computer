@@ -1,5 +1,5 @@
 # website-class-computer
-![](https://visitor-badge.laobi.icu/badge?page_id=soniatisaputri.soniatisaputri)
+![](https://visitor-badge.laobi.icu/badge?page_id=soniaatp.soniaatp)
 Capstone Project Cloud Fundamental
 <br>
 Bidang Pendidikan

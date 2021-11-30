@@ -1,0 +1,8 @@
+NAMA;TIPE;LOKASI
+web2-vnet;Jaringan virtual;Australia Central
+web2-vnet-ip;Alamat IP publik;Australia Central
+web2vm;Mesin virtual;Australia Central
+web2vm-ip;Alamat IP publik;Australia Central
+web2vm-nsg;Grup keamanan jaringan;Australia Central
+web2vm262;Antarmuka jaringan;Australia Central
+web2vm_OsDisk_1_22defa0e28b3460a97090218be6cdfe5;Disk;Australia Central

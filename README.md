@@ -1,6 +1,10 @@
 # website-class-computer
 
-Capstone Project Cloud Fundamental Bidang Pendidikan
+Capstone Project Cloud Fundamental
+<br>
+Bidang Pendidikan
+<br>
+Judul : Website Kelas Pembelajaran Komputer Berbasis Moodle pada azure 
 
 Nama : Sonia Tisa Putri
 <br>

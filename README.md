@@ -5,6 +5,10 @@ Capstone Project Cloud Fundamental
 Bidang Pendidikan
 <br>
 Judul : Website Kelas Pembelajaran Komputer Berbasis Moodle pada azure 
+<br><br>
+Untuk Laporan Akhir, terdapat pada Folder OneDrive. Saya telah melakukan submit ulang untuk capstone project ke MS Form dengan menginput link OneDrive.
+<br>
+
 
 Nama : Sonia Tisa Putri
 <br>
@@ -22,3 +26,4 @@ Penjelasan : <br>
 
 Catatan :
 Saya menggunakan akun github soniatisaputri untuk commit file di akun github soniaatp dikarenakan pengaturan default git bash saya menggunakan akun github soniatisaputri.
+
